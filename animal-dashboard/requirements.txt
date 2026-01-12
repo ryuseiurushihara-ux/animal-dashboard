@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydrive
+
+streamlit>=1.30.0
+tensorflow>=2.12.0
+numpy
+pillow
+altair
+pandas
+
+google-auth-oauthlib
+google-auth
+google-api-python-client
+
